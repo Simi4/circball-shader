@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/circball.vert</file>
+        <file>shaders/circball.frag</file>
+        <file>shaders/overlay.frag</file>
+        <file>shaders/overlay.vert</file>
+    </qresource>
+</RCC>

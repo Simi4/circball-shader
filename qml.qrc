@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CircBallMaterial.qml</file>
+        <file>CircBall.qml</file>
+        <file>OverlayMaterial.qml</file>
+    </qresource>
+</RCC>
